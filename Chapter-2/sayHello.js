@@ -1,5 +1,5 @@
 function sayHello(firstName) {
-    console.log('Hello' + firstName);
+    console.log('hello' + firstName);
 }
 var firstName = 'Ta2shi';
 sayHello(firstName);
