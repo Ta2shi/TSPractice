@@ -1,0 +1,11 @@
+{
+  "name": "tspractice_src",
+  "version": "1.0.0",
+  "description": "「typescriptとreact/next.jsでつくる実践webアプリケーション開発」 本を用いて、TypeScriptの練習をします",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
